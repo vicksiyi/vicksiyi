@@ -6,7 +6,7 @@ I'm ZeroIce. A front-end developer.
 
 <table border="0">
  <tr>
-<td width="500"><b style="font-size:40px">
+<td width="400"><b style="font-size:40px">
       
 
 - 🔭 I am currently living in Guangzhou
@@ -19,7 +19,7 @@ I'm ZeroIce. A front-end developer.
       
       
 </b></td>
-<td><b style="font-size:30px">
+<td style="padding:30px"><b style="padding:30px">
 
       
 ![ZeroIce's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicksiyi&layout=compact&hide_border=true&langs_count=10)
