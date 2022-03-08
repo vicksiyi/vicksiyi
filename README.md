@@ -3,11 +3,6 @@
 I'm ZeroIce. A front-end developer.
 
 
-<table>
-<thead>
-<tr>
-<td width="50%">
-
 - 🔭 I am currently living in Guangzhou
 - 🌱 I’m currently learning Vue3 + TypeScript
 - 👯 My blog 👉: - [GC怪兽-CSDN](https://blog.csdn.net/weixin_41593408?spm=1000.2115.3001.5343)
@@ -15,21 +10,14 @@ I'm ZeroIce. A front-end developer.
 - 💬 Ask me about zeroicegc@163.com
 - 📫 How to reach me: To send E-mail.
 - ⚡ My Power Tools: ![](https://img.shields.io/badge/Edit-VsCode-blue)
-  
-</td>  
-<td width="50%">
 
 ![ZeroIce's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicksiyi&layout=compact&hide_border=true&langs_count=10)
-  
-</td>  
-</tr>
-</thead>
-</table>
 
 
 
 
 ![](https://stats.justsong.cn/api/leetcode?username=zeroice&cn=true)
 ![](https://stats.justsong.cn/api/csdn?id=weixin_41593408)
+
 <!-- [![ZeroIce's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicksiyi&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) -->
 
