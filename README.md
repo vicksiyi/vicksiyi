@@ -7,10 +7,7 @@ I'm ZeroIce. A front-end developer.
 - 🤔 My LeetCode 👉: - [ZeroIce-LeetCode](https://leetcode-cn.com/u/zeroice/)
 - 💬 Ask me about zeroicegc@163.com
 - 📫 How to reach me: To send E-mail.
-- ⚡ My Power Tools:
-
-
-![](https://img.shields.io/badge/Edit-VsCode-blue) ![](https://img.shields.io/badge/Icon-iconfont-brightgreen)
+- ⚡ My Power Tools: ![](https://img.shields.io/badge/Edit-VsCode-blue)
 
 
 <!--
