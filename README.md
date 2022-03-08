@@ -2,6 +2,12 @@
 ### Hi there 👋
 I'm ZeroIce. A front-end developer.
 
+<!-- ![ZeroIce's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicksiyi&layout=compact&hide_border=true&langs_count=10)   -->
+
+<table border="0">
+ <tr>
+<td width="500"><b style="font-size:40px">
+      
 
 - 🔭 I am currently living in Guangzhou
 - 🌱 I’m currently learning Vue3 + TypeScript
@@ -10,11 +16,18 @@ I'm ZeroIce. A front-end developer.
 - 💬 Ask me about zeroicegc@163.com
 - 📫 How to reach me: To send E-mail.
 - ⚡ My Power Tools: ![](https://img.shields.io/badge/Edit-VsCode-blue)
+      
+      
+</b></td>
+<td><b style="font-size:30px">
 
+      
 ![ZeroIce's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicksiyi&layout=compact&hide_border=true&langs_count=10)
-
-
-
+      
+      
+</b></td>
+</tr>
+</table>
 
 ![](https://stats.justsong.cn/api/leetcode?username=zeroice&cn=true)
 ![](https://stats.justsong.cn/api/csdn?id=weixin_41593408)
