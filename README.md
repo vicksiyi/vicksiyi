@@ -10,6 +10,6 @@ I'm ZeroIce. A front-end developer.
 - 📫 How to reach me: To send E-mail.
 - ⚡ My Power Tools: ![](https://img.shields.io/badge/Edit-VsCode-blue)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicksiyi)](https://github.com/anuraghazra/github-readme-stats)
-![ZeroIce Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicksiyi&layout=compact&hide_border=true&langs_count=10)
+[![ZeroIce's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicksiyi&hide=contribs,prs&card_width=1)](https://github.com/anuraghazra/github-readme-stats)
+![ZeroIce's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicksiyi&layout=compact&hide_border=true&langs_count=10)
 
