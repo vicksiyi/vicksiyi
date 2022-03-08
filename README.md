@@ -20,14 +20,14 @@ Welcome to my Github page! I am ZeroIce and I am currently completing my undergr
 - Exercising 3 days a week
 - Practice spoken English every day
 
-
 #### ⚡ Check websites and blogs: 
 <p>
- 	<img width="48%" align="left" src="https://stats.justsong.cn/api/leetcode?username=zeroice&cn=true" />
-	 <img width="48%" align="right" src="https://stats.justsong.cn/api/csdn?id=weixin_41593408" />
+ 	<img width="48%" src="https://stats.justsong.cn/api/leetcode?username=zeroice&cn=true" />
+	 <img width="48%" src="https://stats.justsong.cn/api/csdn?id=weixin_41593408" />
 </p>
 
 #### :computer: Programming languages and tools: 
+<div>
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksiyi&layout=compact&hide_border=true&langs_count=10" />
 
@@ -45,4 +45,5 @@ Welcome to my Github page! I am ZeroIce and I am currently completing my undergr
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
+</div>
 
