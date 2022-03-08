@@ -8,8 +8,6 @@ I'm ZeroIce. A front-end developer.
 - 💬 Ask me about zeroicegc@163.com
 - 📫 How to reach me: To send E-mail.
 - ⚡ My Power Tools: ![](https://img.shields.io/badge/Edit-VsCode-blue)
-
-![Metrics](https://metrics.lecoq.io/vicksiyi?template=terminal&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FShanghai)
 <!--
 **vicksiyi/vicksiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
