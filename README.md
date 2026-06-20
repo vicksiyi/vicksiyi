@@ -1,49 +1,100 @@
-### Hi there 👋 
-### This is ZeroIce!
+<!--
+  GitHub Profile README
 
-Welcome to my Github page! I am ZeroIce and I am currently completing my undergraduate degree in Information and Computing Science at Guangdong University of Petrochemical Technology!
+  How to use:
+  1. Create a GitHub repository named exactly the same as your GitHub username.
+  2. Put this file in that repository as README.md.
+  3. Replace every YOUR_GITHUB_USERNAME, YOUR_NAME, YOUR_EMAIL, and project placeholder.
+  4. Delete sections you do not need. Keep it sharp.
+-->
 
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/39822906/157213193-3cb0f9ac-a839-47cc-acfe-c3958da5e4a1.jpg" width="50%" height="auto" />
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00DBDE,45:7A5CFF,100:FC00FF&text=Hi%2C%20I'm%20YOUR_NAME&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=FFFFFF&desc=Code%20%7C%20AI%20%7C%20Product%20%7C%20Open%20Source&descAlign=50&descAlignY=58&animation=twinkling)
 
-- 🔭 I am currently living in Guangzhou
-- 🌱 I’m currently learning Vue3 + TypeScript
-- 👯 My blog 👉: - [GC怪兽-CSDN](https://blog.csdn.net/weixin_41593408?spm=1000.2115.3001.5343)
-- 🤔 My LeetCode 👉: - [ZeroIce-LeetCode](https://leetcode-cn.com/u/zeroice/)
-- 💬 Ask me about zeroicegc@163.com
-- 📫 How to reach me: To send E-mail.
-- ⚡ My Power Tools: ![](https://img.shields.io/badge/Edit-VsCode-blue) 🚀 *coming soon*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=650&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+things+that+feel+fast%2C+useful%2C+and+alive.;Turning+ideas+into+products%2C+tools%2C+and+experiments.;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
 
-#### :muscle: Things I am challenging myself with:
-- Read for two hours a day
-- Coding at least 8 hours a day
-- Exercising 3 days a week
-- Practice spoken English every day
-
-#### ⚡ Check websites and blogs: 
-<p>
- 	<img width="48%" src="https://stats.justsong.cn/api/leetcode?username=zeroice&cn=true" />
-	 <img width="48%" src="https://stats.justsong.cn/api/csdn?id=weixin_41593408" />
-</p>
-
-#### :computer: Programming languages and tools: 
-<div>
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicksiyi&layout=compact&hide_border=true&langs_count=10" />
-
-
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<br />
-<code><img width="13%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img width="13%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=7A5CFF&labelColor=111827)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
+[![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=FC00FF&labelColor=111827)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 
 </div>
 
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
+
+```yaml
+name: YOUR_NAME
+role: Full-stack Developer / AI Builder / Creative Technologist
+location: Earth, currently building from somewhere with good coffee
+focus:
+  - AI-native products
+  - developer tools
+  - full-stack web apps
+  - automation workflows
+currently_learning:
+  - systems design
+  - agents
+  - performance engineering
+fun_fact: I like turning vague ideas into shipped, polished things.
+```
+
+I build software that is useful first, beautiful second, and quietly delightful when nobody is looking.
+
+---
+
+## Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Go](https://skillicons.dev/icons?i=go)
+![Rust](https://skillicons.dev/icons?i=rust)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css)
+
+### Backend & Data
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,redis,mongodb,supabase)
+
+### Tools & Cloud
+
+![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,aws,linux,figma)
+
+</div>
+
+---
+
+## Current Mission
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">Build</h3>
+      <p align="center">Shipping production-ready apps, internal tools, and playful experiments.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Explore</h3>
+      <p align="center">Learning AI workflows, agent systems, and better product taste.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Share</h3>
+      <p align="center">Writing code, notes, and open-source projects that help others move faster.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE">
