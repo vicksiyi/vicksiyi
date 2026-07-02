@@ -80,21 +80,3 @@ I am a frontend engineer who likes turning messy workflows into clear, fast, usa
     </td>
   </tr>
 </table>
-
----
-
-## Featured Work
-
-<div align="center">
-
-<a href="https://github.com/vicksiyi/chrome-codex-tools">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=vicksiyi&repo=chrome-codex-tools&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/vicksiyi/harness-system">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=vicksiyi&repo=harness-system&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-<a href="https://github.com/vicksiyi/codex-view">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=vicksiyi&repo=codex-view&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/vicksiyi/langraph-searh-blog">
